@@ -4,6 +4,7 @@ Panel pour gérer les annonce de votre entreprise
 # 📕 Fonctionnalité
 - Option d'ouverture/fermerture de votre entreprise
 - Option d'envoyer des message (envoyer des annonce a tout le monde)
+- option Mise du service métier a la connexion du joueur 
 
 # 🔨 Installation
 1 Télécharger et installer le plugin LaHp.dll. 
